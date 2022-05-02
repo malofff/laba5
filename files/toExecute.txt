@@ -1,0 +1,7 @@
+show
+
+remove_at 2
+
+info
+
+help

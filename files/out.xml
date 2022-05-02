@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<HumanBeingsList>
+    <HumanBeing id="1">
+        <name>some_name</name>
+        <coordinates>
+            <coordinateX>123</coordinateX>
+            <coordinateY>73</coordinateY>
+        </coordinates>
+        <creationDate>2022-04-25</creationDate>
+        <realHero>true</realHero>
+        <hasToothpick>false</hasToothpick>
+        <impactSpeed>1</impactSpeed>
+        <weaponType>SHOTGUN</weaponType>
+        <mood>RAGE</mood>
+        <car>
+            <name>Range rover</name>
+        </car>
+    </HumanBeing>
+    <HumanBeing id="2">
+        <name>bad_name</name>
+        <coordinates>
+            <coordinateX>123</coordinateX>
+            <coordinateY>73</coordinateY>
+        </coordinates>
+        <creationDate>2022-04-25</creationDate>
+        <realHero>true</realHero>
+        <hasToothpick>false</hasToothpick>
+        <impactSpeed>2</impactSpeed>
+        <weaponType>SHOTGUN</weaponType>
+        <mood>RAGE</mood>
+        <car>
+            <name>Range rover</name>
+        </car>
+    </HumanBeing>
+</HumanBeingsList>

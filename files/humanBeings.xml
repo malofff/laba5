@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<HumanBeingsList>
+    <HumanBeing id="10167">
+        <name>bad_name</name>
+        <coordinates>
+            <coordinateX>13</coordinateX>
+            <coordinateY>13</coordinateY>
+        </coordinates>
+        <creationDate>2022-05-02</creationDate>
+        <realHero>true</realHero>
+        <hasToothpick>false</hasToothpick>
+        <impactSpeed>-1</impactSpeed>
+        <weaponType>SHOTGUN</weaponType>
+        <mood>RAGE</mood>
+        <car>
+            <name>Range rover</name>
+        </car>
+    </HumanBeing>
+    <HumanBeing id="14284">
+        <name>full_name</name>
+        <coordinates>
+            <coordinateX>13</coordinateX>
+            <coordinateY>13</coordinateY>
+        </coordinates>
+        <creationDate>2022-05-02</creationDate>
+        <realHero>true</realHero>
+        <hasToothpick>false</hasToothpick>
+        <impactSpeed>-1</impactSpeed>
+        <weaponType>SHOTGUN</weaponType>
+        <mood>RAGE</mood>
+        <car>
+            <name>Mercedes</name>
+        </car>
+    </HumanBeing>
+    <HumanBeing id="10967">
+        <name>egor</name>
+        <coordinates>
+            <coordinateX>13</coordinateX>
+            <coordinateY>13</coordinateY>
+        </coordinates>
+        <creationDate>2022-05-02</creationDate>
+        <realHero>true</realHero>
+        <hasToothpick>false</hasToothpick>
+        <impactSpeed>13</impactSpeed>
+        <weaponType>BAT</weaponType>
+        <mood>SORROW</mood>
+        <car>
+            <name>volvo</name>
+        </car>
+    </HumanBeing>
+</HumanBeingsList>
